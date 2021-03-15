@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DancingGoatCore", "DancingGoatCore\DancingGoatCore.csproj", "{A0F8F520-7875-4E7A-B1BC-778FC7296B67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F8F520-7875-4E7A-B1BC-778FC7296B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F8F520-7875-4E7A-B1BC-778FC7296B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F8F520-7875-4E7A-B1BC-778FC7296B67}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A0F8F520-7875-4E7A-B1BC-778FC7296B67}.Debug|x64.Build.0 = Debug|Any CPU
+		{A0F8F520-7875-4E7A-B1BC-778FC7296B67}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A0F8F520-7875-4E7A-B1BC-778FC7296B67}.Debug|x86.Build.0 = Debug|Any CPU
+		{A0F8F520-7875-4E7A-B1BC-778FC7296B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F8F520-7875-4E7A-B1BC-778FC7296B67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F8F520-7875-4E7A-B1BC-778FC7296B67}.Release|x64.ActiveCfg = Release|Any CPU
+		{A0F8F520-7875-4E7A-B1BC-778FC7296B67}.Release|x64.Build.0 = Release|Any CPU
+		{A0F8F520-7875-4E7A-B1BC-778FC7296B67}.Release|x86.ActiveCfg = Release|Any CPU
+		{A0F8F520-7875-4E7A-B1BC-778FC7296B67}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B98CC0B0-0950-4340-9C37-87D8C408470C}
+	EndGlobalSection
+EndGlobal
